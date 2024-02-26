@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-employee-profiles",
+  "version": "1.0.0",
+  "description": "A team profile page builder",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciswilkinson/nodejs-employee-profiles.git"
+  },
+  "author": "Francis Wilkinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franciswilkinson/nodejs-employee-profiles/issues"
+  },
+  "homepage": "https://github.com/franciswilkinson/nodejs-employee-profiles#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "jest": "^29.7.0"
+  }
+}
